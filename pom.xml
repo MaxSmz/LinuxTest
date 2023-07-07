@@ -9,12 +9,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.smzgo</groupId>
-    <artifactId>LinuxText</artifactId>
+    <artifactId>LinuxTest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>LinuxText</name>
-    <description>LinuxText</description>
+    <name>LinuxTest</name>
+    <description>LinuxTest</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>8</java.version>
     </properties>
     <dependencies>
         <dependency>
